@@ -2,6 +2,10 @@
 ### This page is the co-working place of 2019 class'<br> Thanks for having me.
 
 ## [Class](https://github.com/hochae2018/Java-program-practice-2019/projects/1)
+
+> ### [Sharing pool](https://github.com/hochae2018/Java-program-practice-2019/projects/1#column-4815383)
+> ### [Actions](https://github.com/hochae2018/Java-program-practice-2019/projects/1#column-4765584)
+> ### [To Do](https://github.com/hochae2018/Java-program-practice-2019/projects/1#column-4765575)
 ------
 ## Collaborators
 
