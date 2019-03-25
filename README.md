@@ -12,7 +12,7 @@
 ## Collaborators
 - ### [Ms. Kang YK: 강 영금]
 - ### [Mr. Kim MW: 김 민우]
-- ### [Mr. Kim CY: 김 찬양]
+- ### [Mr. Kim CY: 김 찬양](https://kimmothy.github.io/JAVAPractice2019/)
 - ### [Mr. Yoon SK: 윤 성경]
 - ### [Ms. Kang JS: 강 지수]
 - ### [Mr. Kim BJ: 김 범준]
