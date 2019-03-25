@@ -17,7 +17,7 @@
 - ### [Ms. Kang JS: 강 지수]
 - ### [Mr. Kim BJ: 김 범준]
 - ### [Mr. Jeong KH: 정 광현]
-- ### [Mr. Lee YH: 이 영현]
+- ### [Mr. Lee YH: 이 영현](https://github.com/younghyunDev/javapractice)
 - ### [Ms. Jang JH: 장 재혁]
 - ### [Ms. Park SH: 박 승혜]
 - ### [Ms. Lee SA: 이 상아]
