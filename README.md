@@ -20,7 +20,7 @@
 - ### [Mr. Lee YH: 이 영현](https://younghyundev.github.io/javapractice/)
 - ### [Mr. Chang JH: 장 재혁](https://github.com/jaehchangSCSC/JavaClass)
 - ### [Ms. Park SH: 박 승혜]
-- ### [Ms. Lee SA: 이 상아]
+- ### [Ms. Lee SA: 이 상아](https://sha-pizza.github.io/JAVApractice/)
 - ### [Ms. Nam JW: 남 정원]
 - ### [Mr. Lee DH: 이 대희]
 - ### [Mr. Shenrui: 신예]
