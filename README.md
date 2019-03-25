@@ -13,7 +13,7 @@
 - ### [Ms. Kang YK: 강 영금]
 - ### [Mr. Kim MW: 김 민우]
 - ### [Mr. Kim CY: 김 찬양](https://kimmothy.github.io/JAVAPractice2019/)
-- ### [Mr. Yoon SK: 윤 성경]
+- ### [Mr. Yoon SK: 윤 성경](https://yoonseongkyeong.github.io/Coding-Highway/)
 - ### [Ms. Kang JS: 강 지수](https://rrruk.github.io/swe2023/)
 - ### [Mr. Kim BJ: 김 범준]
 - ### [Mr. Jeong KH: 정 광현]
