@@ -18,7 +18,7 @@
 - ### [Mr. Kim BJ: 김 범준]
 - ### [Mr. Jeong KH: 정 광현]
 - ### [Mr. Lee YH: 이 영현](https://younghyundev.github.io/javapractice/)
-- ### [Mr. Chang JH: 장 재혁](https://github.com/jaehchangSCSC/JavaClass)
+- ### [Mr. Chang JH: 장 재혁](https://jaehchangscsc.github.io/JavaClass/)
 - ### [Ms. Park SH: 박 승혜]
 - ### [Ms. Lee SA: 이 상아](https://sha-pizza.github.io/JAVApractice/)
 - ### [Ms. Nam JW: 남 정원]
