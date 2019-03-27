@@ -22,7 +22,7 @@
 - ### [Mr. Jeong KH: 정 광현]
 - ### [Ms. Park SH: 박 승혜]
 - ### [Ms. Nam JW: 남 정원]
-- ### [Mr. Lee DH: 이 대희]
+- ### [Mr. Lee DH: 이 대희](https://vckfnv.github.io/myjava/)
 - ### [Mr. Shenrui: 신예]
                      
 
