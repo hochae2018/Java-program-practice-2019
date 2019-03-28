@@ -23,6 +23,6 @@
 - ### [Mr. Jeong KH: 정 광현](https://nowukh.github.io/java2019-1/)
 - ### [Ms. Park SH: 박 승혜](https://seungly.github.io/JAVA-Implementation-of-Programming/)
 - ### [Ms. Nam JW: 남 정원](https://namjungwon.github.io/java/)
-- ### [Mr. Shenrui: 신예](https://shenrui95.github.io/java.github.io/)
+- ### [Mr. Shenrui: 신예](https://shenrui95.github.io/java/)
                      
 
