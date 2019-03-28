@@ -20,7 +20,7 @@
 - ### [Mr. Lee DH: 이 대희](https://vckfnv.github.io/myjava/)
 - ### [Ms. Kang YK: 강 영금]
 - ### [Mr. Kim BJ: 김 범준]
-- ### [Mr. Jeong KH: 정 광현]
+- ### [Mr. Jeong KH: 정 광현](https://nowukh.github.io/java2019-1/)
 - ### [Ms. Park SH: 박 승혜]
 - ### [Ms. Nam JW: 남 정원]
 - ### [Mr. Shenrui: 신예]
