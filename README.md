@@ -23,6 +23,6 @@
 - ### [Ms. Nam JW: 남 정원](https://namjungwon.github.io/java/)
 - ### [Mr. Shenrui: 신예](https://shenrui95.github.io/java/)
 - ### [Ms. Kang YK: 강 영금]
-- ### [Mr. Kim BJ: 김 범준]
+- ### [Mr. Kim BJ: 김 범준](https://github.com/BeomjunKim14/test)
                      
 
