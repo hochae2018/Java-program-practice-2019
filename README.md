@@ -17,7 +17,7 @@
 - ### [Mr. Lee YH: 이 영현](https://younghyundev.github.io/javapractice/)
 - ### [Mr. Chang JH: 장 재혁](https://jaehchangscsc.github.io/JavaClass/)
 - ### [Ms. Lee SA: 이 상아](https://sha-pizza.github.io/JAVApractice/)
-- ### [Mr. Lee DH: 이 대희](https://vckfnv.github.io/myjava/)
+- ### [Mr. Lee DH: 이 대희] (https://vckfnv.github.io/JavaSimple/)
 - ### [Mr. Jeong KH: 정 광현](https://nowukh.github.io/java2019-1/)
 - ### [Ms. Park SH: 박 승혜](https://seungly.github.io/JAVA-Implementation-of-Programming/)
 - ### [Ms. Nam JW: 남 정원](https://namjungwon.github.io/java/)
