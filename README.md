@@ -10,7 +10,6 @@
 
 
 ## Collaborators
-- ### [Mr. Kim MW: 김 민우](https://skkubeckham.github.io/Homework/)
 - ### [Mr. Kim CY: 김 찬양](https://kimmothy.github.io/JAVAPractice2019/)
 - ### [Mr. Yoon SK: 윤 성경](https://yoonseongkyeong.github.io/Coding-Highway/) / [GitHub Page implemented in html](https://yoonseongkyeong.github.io/) - [GitHub of site](https://github.com/YoonSeongKyeong/yoonseongkyeong.github.com)
 - ### [Ms. Kang JS: 강 지수](https://rrruk.github.io/swe2023/)
@@ -22,7 +21,8 @@
 - ### [Ms. Park SH: 박 승혜](https://seungly.github.io/JAVA-Implementation-of-Programming/)
 - ### [Ms. Nam JW: 남 정원](https://namjungwon.github.io/java/)
 - ### [Mr. Shenrui: 신예](https://shenrui95.github.io/java/)
-- ### [Ms. Kang YK: 강 영금]
 - ### [Mr. Kim BJ: 김 범준](https://github.com/BeomjunKim14/test)
+- ### [Mr. Kim MW: 김 민우](https://skkubeckham.github.io/Homework/)
+- ### [Ms. Kang YK: 강 영금]
                      
 
