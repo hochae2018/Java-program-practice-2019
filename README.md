@@ -11,6 +11,9 @@
 - ## [Ms. Lee SA](https://github.com/sha-pizza/JAVApractice/tree/master/p1calculator)
 ------
 
+## Lesson 11: 16/May, 2019
+> ### [Desktop install on ubuntu server](https://github.com/hochae/AWS)
+------
 
 ## Collaborators
 - ### [Mr. Kim CY: 김 찬양](https://kimmothy.github.io/JAVAPractice2019/)
