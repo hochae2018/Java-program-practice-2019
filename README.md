@@ -29,7 +29,7 @@
 - ### [Mr. Shenrui: 신예](https://shenrui95.github.io/java/)
 - ### [Mr. Kim BJ: 김 범준](https://github.com/BeomjunKim14/test)
 - ### [Mr. Kim MW: 김 민우](https://minwoo19930301.github.io/Homework/)
-- ### [Ms. Kang YK: 강 영금]
+- ### [Ms. Kang YK: 강 영금](https://github.com/yeonggeumkang/2019-1-JAVA)
          
                   
 
