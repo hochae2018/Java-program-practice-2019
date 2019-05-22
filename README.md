@@ -11,8 +11,11 @@
 - ## [Ms. Lee SA](https://github.com/sha-pizza/JAVApractice/tree/master/p1calculator)
 ------
 
-## Supplement: 16/May, 2019
-> ### [Desktop install on ubuntu server](https://github.com/hochae/AWS)
+## Supplements: 
+> ## 23/May, 2019
+>> ### [Simple Socket server](https://github.com/hochae2018/Java-program-practice-2019/blob/master/code/chatserver.jar)
+> ## 16/May, 2019
+>> ### [Desktop install on ubuntu server](https://github.com/hochae/AWS)
 ------
 
 ## Collaborators
