@@ -14,6 +14,7 @@
 ## Supplements: 
 > ## 23/May, 2019
 >> ### [Simple Socket server](https://github.com/hochae2018/Java-program-practice-2019/blob/master/code/chatserver.jar)
+>> ### [Simple Socket server 2](https://github.com/hochae2018/Java-program-practice-2019/blob/master/code/vschatserver.jar)
 > ## 16/May, 2019
 >> ### [Desktop install on ubuntu server](https://github.com/hochae/AWS)
 ------
