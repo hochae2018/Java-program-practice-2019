@@ -11,6 +11,9 @@
 - ## [Ms. Lee SA](https://github.com/sha-pizza/JAVApractice/tree/master/p1calculator)
 ------
 
+## Supplement: 16/May, 2019
+> ### [Desktop install on ubuntu server](https://github.com/hochae/AWS)
+------
 
 ## Collaborators
 - ### [Mr. Kim CY: 김 찬양](https://kimmothy.github.io/JAVAPractice2019/)
@@ -25,7 +28,8 @@
 - ### [Ms. Nam JW: 남 정원](https://namjungwon.github.io/java/)
 - ### [Mr. Shenrui: 신예](https://shenrui95.github.io/java/)
 - ### [Mr. Kim BJ: 김 범준](https://github.com/BeomjunKim14/test)
-- ### [Mr. Kim MW: 김 민우](https://skkubeckham.github.io/Homework/)
-- ### [Ms. Kang YK: 강 영금]
-                     
+- ### [Mr. Kim MW: 김 민우](https://minwoo19930301.github.io/Homework/)
+- ### [Ms. Kang YK: 강 영금](https://yeonggeumkang.github.io/2019-1-JAVA/)
+         
+                  
 
