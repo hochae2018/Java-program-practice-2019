@@ -13,7 +13,7 @@
 
 ## Supplements: 
 > ## 30/May, 2019
->> ### [Simple Socket server 2 updated version](vschatser.jar)
+>> ### [Simple Socket server 2 updated version](./code/vschatser.jar)
 > ## 23/May, 2019
 >> ### [Daily Advice server](https://github.com/hochae2018/Java-program-practice-2019/blob/master/code/dailyserver.jar)
 >> ### [Simple Socket server](https://github.com/hochae2018/Java-program-practice-2019/blob/master/code/chatserver.jar)
