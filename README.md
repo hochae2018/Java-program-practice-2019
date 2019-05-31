@@ -13,7 +13,9 @@
 
 ## Supplements: 
 > ## 31/May, 2019
->> ### [jar build sample](./code/1_kmw_jarOnWin10.jpg)   
+>> ### [jar build sample](./code/1_kmw_jarOnWin10.jpg) 
+>>> ### - Tested on bash of command prompt of Windows 10.
+>>> ### - Installed default JDK on bash.
 > ## 30/May, 2019
 >> ### [Simple Socket server 2 updated version](./code/vschatser.jar)   
 >> ### [myrunnable](./code/myrunnable.jar)   
