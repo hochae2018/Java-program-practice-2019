@@ -12,6 +12,8 @@
 ------
 
 ## Supplements: 
+> ## 31/May, 2019
+>> ### [jar build sample](./code/1_kmw_jarOnWin10.jpg)   
 > ## 30/May, 2019
 >> ### [Simple Socket server 2 updated version](./code/vschatser.jar)   
 >> ### [myrunnable](./code/myrunnable.jar)   
